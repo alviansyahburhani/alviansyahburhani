@@ -20,10 +20,6 @@ born: 2004
 domicile: Kota Makassar, Indonesia 🇮🇩
 education: Fresh Graduate - Teknik Informatika, Universitas Muhammadiyah Makassar
 focus: Frontend Web Developer & Machine Learning
-specialty: >
-  Merekayasa antarmuka web modern yang bersih, performan,
-  dan memiliki estetika visual tinggi — menjembatani
-  fungsionalitas kode dengan keindahan desain grafis.
 collaboration: Open source projects related to Machine Learning
 contact: 1058411103522@student.unismuh.ac.id
 ```
