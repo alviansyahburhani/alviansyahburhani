@@ -92,8 +92,8 @@ contact: 1058411103522@student.unismuh.ac.id
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=alviansyahburhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=440" alt="Alvian's GitHub Stats" height="195"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alviansyahburhani&layout=donut&theme=tokyonight&hide_border=true" alt="Alvian's Top Languages" height="195"/>
+<img src="https://github-stats-extended.vercel.app/api?username=alviansyahburhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=440" alt="Alvian's GitHub Stats" height="195"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alviansyahburhani&layout=donut&theme=tokyonight&hide_border=true" alt="Alvian's Top Languages" height="195"/>
 
 <br/>
 
