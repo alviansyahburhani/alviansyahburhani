@@ -20,6 +20,10 @@ born: 2004
 domicile: Kota Makassar, Indonesia 🇮🇩
 education: Fresh Graduate - Teknik Informatika, Universitas Muhammadiyah Makassar
 focus: Frontend Web Developer & Machine Learning
+specialty: >
+  Merekayasa antarmuka web modern yang bersih, performan,
+  dan memiliki estetika visual tinggi — menjembatani
+  fungsionalitas kode dengan keindahan desain grafis.
 collaboration: Open source projects related to Machine Learning
 contact: 1058411103522@student.unismuh.ac.id
 ```
@@ -47,40 +51,48 @@ contact: 1058411103522@student.unismuh.ac.id
 
 <br/>
 
-🧙‍♂️ Tech Stack
+## 🧙‍♂️ Tech Stack
 
 <div align="center">
-Languages
-<br/>
-<img src="https://skillicons.dev/icons?i=python,js,html,css" height="50"/>
 
-<br/><br/>
-
-🌐 Web Development
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,wordpress,php" height="50"/>
-
-<br/><br/>
-
-**📊 Data Science & Machine Learning**
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="60" height="50"/>
-
-<br/><br/>
-
-🛠️ Tools
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/antigravity-color.svg" width="50" height="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50" height="50"/>
+<table>
+  <tr>
+    <td align="right"><b>💻 Languages</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=python,js,html,css" height="42"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🌐 Web Development</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,wordpress,php" height="42"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>📊 Data Science & ML</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" height="42"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" height="42"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="50" height="42"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>🛠️ Tools</b></td>
+    <td align="left">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="42"/>
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/antigravity-color.svg" width="42" height="42"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" height="42"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="42" height="42"/>
+    </td>
+  </tr>
+</table>
 
 </div>
+
+
 <br/>
 
 ## ✨ GitHub Analytics
@@ -113,67 +125,6 @@ Languages
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.64%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 185.7 kB Used in GitHub's Storage 
- > 
-> 🏆 91 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 32 Public Repositories 
- > 
-> 🔑 2 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                329 commits         ████████░░░░░░░░░░░░░░░░░   32.97 % 
-🌆 Daytime                468 commits         ████████████░░░░░░░░░░░░░   46.89 % 
-🌃 Evening                143 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-🌙 Night                  58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Tuesday                  211 commits         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-Wednesday                196 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
-Thursday                 211 commits         █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
-Friday                   172 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Saturday                 19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Sunday                   66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/alviansyahburhani/alviansyahburhani/main/assets/bar_graph.png)
-
-
- Last Updated on 03/07/2026 07:39:03 UTC
 <!--END_SECTION:waka-->
 
 <br/>
