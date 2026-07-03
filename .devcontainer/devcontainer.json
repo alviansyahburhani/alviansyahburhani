@@ -1,7 +1,14 @@
 {
+  "name": "GitHub Profile Codespace",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
   "customizations": {
     "vscode": {
-      "extensions": ["WakaTime.vscode-wakatime"]
+      "extensions": [
+        "WakaTime.vscode-wakatime"
+      ],
+      "settings": {
+        "wakatime.status_bar_enabled": true
+      }
     }
   }
 }
