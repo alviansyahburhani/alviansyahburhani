@@ -55,7 +55,27 @@ contact: 1058411103522@student.unismuh.ac.id
 
 <div align="center">
 
-<img src="./tech-stack-marquee.svg" alt="Tech Stack" width="100%"/>
+**💻 Languages**
+<br/>
+<img src="./marquee-languages.svg" alt="Languages" width="100%"/>
+
+<br/>
+
+**🌐 Web Development**
+<br/>
+<img src="./marquee-webdev.svg" alt="Web Development" width="100%"/>
+
+<br/>
+
+**📊 Data Science & Machine Learning**
+<br/>
+<img src="./marquee-datascience.svg" alt="Data Science & Machine Learning" width="100%"/>
+
+<br/>
+
+**🛠️ Tools**
+<br/>
+<img src="./marquee-tools.svg" alt="Tools" width="100%"/>
 
 </div>
 
