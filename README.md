@@ -55,42 +55,10 @@ contact: 1058411103522@student.unismuh.ac.id
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="right"><b>💻 Languages</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=python,js,html,css" height="42"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🌐 Web Development</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,wordpress,php" height="42"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>📊 Data Science & ML</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" height="42"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" height="42"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" height="42"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" height="42"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" height="42"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" width="50" height="42"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="right"><b>🛠️ Tools</b></td>
-    <td align="left">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="42"/>
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/antigravity-color.svg" width="42" height="42"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="42" height="42"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="42" height="42"/>
-    </td>
-  </tr>
-</table>
+<img src="./tech-stack-marquee.svg" alt="Tech Stack" width="100%"/>
 
 </div>
+
 
 
 <br/>
