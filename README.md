@@ -73,14 +73,14 @@ Languages
 
 <br/><br/>
 
-**🛠️ Tools**
+🛠️ Tools
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/antigravity-color.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="50" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50" height="50"/>
 
 </div>
-
 <br/>
 
 ## ✨ GitHub Analytics
