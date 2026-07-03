@@ -51,19 +51,18 @@ contact: 1058411103522@student.unismuh.ac.id
 
 <br/>
 
-## 🧙‍♂️ Tech Stack
+🧙‍♂️ Tech Stack
 
 <div align="center">
-
-**Languages**
+Languages
 <br/>
 <img src="https://skillicons.dev/icons?i=python,js,html,css" height="50"/>
 
 <br/><br/>
 
-**🌐 Web Development**
+🌐 Web Development
 <br/>
-<img src="https://skillicons.dev/icons?i=react,wordpress" height="50"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,wordpress,php" height="50"/>
 
 <br/><br/>
 
