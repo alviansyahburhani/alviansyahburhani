@@ -113,11 +113,12 @@ contact: 1058411103522@student.unismuh.ac.id
 
 <div align="center">
 
-### 🧊 3D Contribution Graph
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="90%"/>
+### ⏱️ Weekly Coding Stats (WakaTime)
 
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/>
 
