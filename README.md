@@ -113,11 +113,19 @@ contact: 1058411103522@student.unismuh.ac.id
 
 <div align="center">
 
-### 🐍 Contribution Snake
+### 🧊 3D Contribution Graph
 
-<img src="https://raw.githubusercontent.com/alviansyahburhani/alviansyahburhani/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="90%"/>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="90%"/>
 
-<sub>⚠️ Aktifkan lewat GitHub Actions — lihat catatan setup di bawah.</sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📊 Metrics Dashboard
+
+<img src="./github-metrics.svg" alt="Metrics Dashboard" width="90%"/>
 
 </div>
 
