@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6a11cb&height=200&section=header&text=Hi%20There,%20I'm%20Alvian%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+%26+Data+Science+Explorer+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=550&lines=Frontend+Web+Developer+%F0%9F%92%BB;Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+%26+Data+Science+Explorer+%F0%9F%93%8A;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=alviansyahburhani&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="alviansyahburhani"/>
@@ -15,12 +15,17 @@
 ## 🚀 About Me
 
 ```yaml
-name: Alvian Syah Burhani
-location: Indonesia 🇮🇩
-current_focus: Diving deeper into AI & Data Science
+nickname: Alvian
+born: 2004
+domicile: Kota Makassar, Indonesia 🇮🇩
+education: Fresh Graduate - Teknik Informatika, Universitas Muhammadiyah Makassar
+focus: Frontend Web Developer & Machine Learning
+specialty: >
+  Merekayasa antarmuka web modern yang bersih, performan,
+  dan memiliki estetika visual tinggi — menjembatani
+  fungsionalitas kode dengan keindahan desain grafis.
 collaboration: Open source projects related to Machine Learning
 contact: 1058411103522@student.unismuh.ac.id
-fun_fact: I turn coffee ☕ into machine learning models 🤖
 ```
 
 <br/>
@@ -29,6 +34,9 @@ fun_fact: I turn coffee ☕ into machine learning models 🤖
 
 <div align="center">
 
+<a href="https://porto-alvian.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/alvian-syah-burhani" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
