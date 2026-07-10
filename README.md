@@ -115,7 +115,7 @@ contact: 1058411103522@student.unismuh.ac.id
 
 **🐱 My GitHub Data** 
 
-> 📦 186.2 kB Used in GitHub's Storage 
+> 📦 186.3 kB Used in GitHub's Storage 
  > 
 > 🏆 107 Contributions in the Year 2026
  > 
@@ -152,16 +152,16 @@ Sunday                   66 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JSON                     2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-alviansyahburhani        2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **Timeline**
@@ -169,7 +169,7 @@ Linux                    2 mins              ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/alviansyahburhani/alviansyahburhani/main/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 20:46:18 UTC
+ Last Updated on 10/07/2026 20:21:31 UTC
 <!--END_SECTION:waka-->
 
 <br/>
