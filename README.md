@@ -111,38 +111,38 @@ contact: 1058411103522@student.unismuh.ac.id
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-33.66%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.69%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 197.0 kB Used in GitHub's Storage 
+> 📦 82.6 kB Used in GitHub's Storage 
  > 
-> 🏆 115 Contributions in the Year 2026
+> 🏆 73 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 33 Public Repositories 
+> 📜 31 Public Repositories 
  > 
-> 🔑 2 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                329 commits         ████████░░░░░░░░░░░░░░░░░   32.22 % 
-🌆 Daytime                485 commits         ████████████░░░░░░░░░░░░░   47.50 % 
-🌃 Evening                143 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-🌙 Night                  64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+🌞 Morning                327 commits         █████████░░░░░░░░░░░░░░░░   34.46 % 
+🌆 Daytime                456 commits         ████████████░░░░░░░░░░░░░   48.05 % 
+🌃 Evening                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Tuesday                  212 commits         █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
-Wednesday                196 commits         █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-Thursday                 211 commits         █████░░░░░░░░░░░░░░░░░░░░   20.67 % 
-Friday                   188 commits         █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Saturday                 19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Sunday                   72 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Tuesday                  212 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Wednesday                193 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Thursday                 211 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
+Friday                   150 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+Saturday                 17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Sunday                   43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
 ```
 
 
@@ -169,7 +169,7 @@ No Activity Tracked This Week
 ![Lines of Code chart](https://raw.githubusercontent.com/alviansyahburhani/alviansyahburhani/main/assets/bar_graph.png)
 
 
- Last Updated on 16/07/2026 20:02:42 UTC
+ Last Updated on 17/07/2026 20:04:34 UTC
 <!--END_SECTION:waka-->
 
 <br/>
