@@ -14,7 +14,7 @@ Lulusan Teknik Informatika, Universitas Muhammadiyah Makassar 🇮🇩
 
 ## About
 
-Saya membangun antarmuka web dan tertarik pada machine learning serta data science. Saat ini saya mencari peluang sebagai **Frontend Developer** dan terbuka untuk kolaborasi **open source** di bidang Machine Learning.
+Saya adalah Frontend developer yang dimana tugas saya memberikan keindahan dan kenyamanan untuk setiap website yang saya buat
 
 - 📍 Makassar, Indonesia
 - 🎓 Teknik Informatika, Universitas Muhammadiyah Makassar
