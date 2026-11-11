@@ -4,7 +4,7 @@
 
 **Frontend Web Developer · Machine Learning Enthusiast**
 
-Fresh graduate Teknik Informatika, Universitas Muhammadiyah Makassar 🇮🇩
+Lulusan Teknik Informatika, Universitas Muhammadiyah Makassar 🇮🇩
 
 [Portfolio](https://porto-alvian.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/alvian-syah-burhani) · [Instagram](https://www.instagram.com/alvianburhani) · [Email](mailto:1058411103522@student.unismuh.ac.id)
 
