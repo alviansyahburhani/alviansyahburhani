@@ -77,119 +77,14 @@ contact: 1058411103522@student.unismuh.ac.id
 
 <br/>
 
-## ✨ GitHub Analytics
-
+## GitHub Stats
+ 
 <div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=alviansyahburhani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&card_width=440" alt="Alvian's GitHub Stats" height="195"/>
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alviansyahburhani&layout=donut&theme=tokyonight&hide_border=true" alt="Alvian's Top Languages" height="195"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alviansyahburhani&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alviansyahburhani&theme=tokyo-night&hide_border=true" alt="Alvian's Contribution Graph" width="90%"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=alviansyahburhani&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
+<img src="https://github-stats-extended.vercel.app/api?username=alviansyahburhani&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alviansyahburhani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </div>
-
-<br/>
-
+---
+ 
 <div align="center">
-
-### ⏱️ Weekly Coding Stats (WakaTime)
-
-</div>
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20mins-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.69%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 82.4 kB Used in GitHub's Storage 
- > 
-> 🏆 73 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                327 commits         █████████░░░░░░░░░░░░░░░░   34.46 % 
-🌆 Daytime                456 commits         ████████████░░░░░░░░░░░░░   48.05 % 
-🌃 Evening                116 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-🌙 Night                  50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   123 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Tuesday                  212 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
-Wednesday                193 commits         █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
-Thursday                 211 commits         ██████░░░░░░░░░░░░░░░░░░░   22.23 % 
-Friday                   150 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
-Saturday                 17 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Sunday                   43 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/alviansyahburhani/alviansyahburhani/main/assets/bar_graph.png)
-
-
- Last Updated on 01/08/2026 20:09:17 UTC
-<!--END_SECTION:waka-->
-
-<br/>
-
-<div align="center">
-
-### 📊 Metrics Dashboard
-
-<img src="./github-metrics.svg" alt="Metrics Dashboard" width="90%"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:0e75b6&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <i>Thanks for stopping by! Feel free to reach out and collaborate 🚀</i>
+  <i>Terima kasih sudah mampir! Silakan hubungi saya untuk berkolaborasi.</i>
 </div>
