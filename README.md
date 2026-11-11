@@ -12,14 +12,14 @@ Lulusan Teknik Informatika, Universitas Muhammadiyah Makassar 🇮🇩
 
 ---
 
-## About
+About
+<div align="center">
 
-Saya adalah Frontend developer yang dimana tugas saya memberikan keindahan dan kenyamanan untuk setiap website yang saya buat
+<i>Saya Frontend Developer yang bertugas menghadirkan <b>keindahan</b> dan <b>kenyamanan</b><br/>di setiap website yang saya buat.</i>
 
-- 📍 Makassar, Indonesia
-- 🎓 Teknik Informatika, Universitas Muhammadiyah Makassar
-- 🔭 Fokus: Frontend Web & Machine Learning
-- 🤝 Terbuka untuk: proyek open source ML, kerja full-time/magang/freelance
+<br/><br/>
+
+<table> <tr> <td align="center" width="50%"> <br/>📍<br/><b>Lokasi</b><br/>Makassar, Indonesia<br/><br/> </td> <td align="center" width="50%"> <br/>🎓<br/><b>Pendidikan</b><br/>Teknik Informatika<br/>Universitas Muhammadiyah Makassar<br/><br/> </td> </tr> <tr> <td align="center" width="50%"> <br/>🔭<br/><b>Fokus</b><br/>Frontend Web &amp; Machine Learning<br/><br/> </td> <td align="center" width="50%"> <br/>🤝<br/><b>Terbuka untuk</b><br/>Open source ML · Full-time · Magang · Freelance<br/><br/> </td> </tr> </table> </div>
 
 Tech Stack
 <div align="center">
