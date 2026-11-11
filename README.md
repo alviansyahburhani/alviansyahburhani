@@ -21,20 +21,24 @@ Saya membangun antarmuka web dan tertarik pada machine learning serta data scien
 - 🔭 Fokus: Frontend Web & Machine Learning
 - 🤝 Terbuka untuk: proyek open source ML, kerja full-time/magang/freelance
 
-## Tech Stack
+Tech Stack
+<div align="center">
 
-> Sesuaikan dengan tools yang benar-benar kamu pakai.
+💻 Languages <br/> <img src="./marquee-languages.svg" alt="Languages" width="100%"/>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br/>
+
+🌐 Web Development <br/> <img src="./marquee-webdev.svg" alt="Web Development" width="100%"/>
+
+<br/>
+
+📊 Data Science & Machine Learning <br/> <img src="./marquee-datascience.svg" alt="Data Science & Machine Learning" width="100%"/>
+
+<br/>
+
+🛠️ Tools <br/> <img src="./marquee-tools.svg" alt="Tools" width="100%"/>
+
+</div>
 
 ## Featured Projects
 
